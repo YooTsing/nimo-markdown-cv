@@ -1,157 +1,112 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 游正材 || Skyzc
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:youzhengcai@gmail.com
+  text: youzhengcai@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://www.skyzc.top
+  text: https://www.skyzc.top
+phone: 15750769828
 ---
 
-# Wode **Ni**
+# 游正材
 
 <!--
 include contact information from the front matter
 Supported arguments:
+
     - homepage: url, text
-    - phone
-    - email
+        - phone
+        - email
 -->
 
 {% include cv-contact.html %}
 
-## Education
+## 👨‍💻&nbsp; 专业技能 Skill points
 
-### **Carnegie Mellon University** `2018.9 -`
+1. 理解面向对象编程，熟练掌握 Java 编程语言及其相关开发框架的应用。
+2. 熟悉 python 语言及爬虫设计，掌握 Scrapy 框架的应用。 
+3. 熟悉 Python Web 开发，能够 Flask 的进行开发。
+4. 熟悉 Linux 操作系统，能够在其上进行开发部署项目，了解并使用 openEuler。
+5. 熟练掌握 SSH、SSM 框架并有一定理解，以及 Tomcat、jetty 等 WEB 容器的应用。 
+6. 独立搭建过项目的系统框架，熟练掌握 SpringBoot 开发框架及其应用。 
+7. 熟悉关系型数据库MySQL、PostgreSQL，具备一定的数据库设计和优化经验。 
+8. 了解前端主流框架 Vue2.0，熟练掌握 JavaScript 及其相关框架。 
+9. 熟悉使用 Nginx 的应用。 
+10. 熟悉 Git 版本控制工具及协同开发。
+11. 熟悉树莓派开发及运用。
 
-```
-Pittsburgh, PA
-```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+## 🎓&nbsp; 教育及实习经历  Education & Internship
 
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **阳光学院** `2020.9 -`
 
 ```
-Carlisle, PA
+福州，福建
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- 计算机科学与技术
 
-## Publications
+### **厦门知晓物联技术服务有限公司** `2019.3 - 2019.10`
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+```
+厦门，福建
+```
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+- Java 后端开发实习生
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+### **厦门软件学院** `2017.9 - 2020.6`
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+```
+厦门，福建
+```
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
+- 大数据技术与运用
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+##  🏅&nbsp; 荣誉和奖励 Honor & Award
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+\- 参加 2020 openEuler 高校开发者大赛，获得二等奖。 `阳光学院, 2021` <br>
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+\- 参加 2020 Ti 杯电子设计大赛，设计基于树莓派的人脸识别项目，获得福建省三等奖。`阳光学院, 2020` <br>
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+\- 参与公司项目，负责项目后端开发，并带领项目成果参加 2019 宁波世界数字经济大会。 <br>`厦门知晓物联技术服务有限公司, 2019` <br>
 
----
+\- 参与设计基于 Java EasyPR 的车牌识别管理系统 Web 端，项目获 2017 年福建省职业技能大赛省赛三等奖。 `厦门软件学院, 2017` <br>
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
+## 🚀 &nbsp; 项目经验 Experience
 
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+### **1. HopeHome-室内温度智能化监测系统** `2020.12 -`
 
-## Experience
+_[开源地址 ：https://gitee.com/openeuler2020/team-1647788699](https://gitee.com/openeuler2020/team-1647788699)_<br>
 
-### **Microsoft Research** `2020.5 -`
+HopeHome 是一个基于 “云管边端” 架构的智能温度监测系统，整个系统分为了云、边、端三大节点。云节点使用 SpringBoot 开发负责对边端采集到的数据进行可视化及持久化，部署在 openEuler 上；边节点使用了基于 openEuler 生态构建的 HopeEdge OS ，搭载在 Raspberry Pi 4 Model B 上，作为智能 AP。端节点使用 ESP8266 来进行搭建。
 
-_Research Intern_<br>
+该项目为参加 2020 openEuler 全国高校开发者大赛第 34 题的成果，项目在大赛中获得了二等奖。我在项目中担任队长，负责了整个系统的架构设计以及云节点、边节点的开发工作，以及团队协作管理。该系统目前已开源，并在长期维护中。
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+在该项目的开发过程中，不仅学习和巩固了很多关于 Python ，SpringBoot 以及操作系统的知识，更是深入的了解了 openEuler 社区以及中国开源的力量，并且非常希望能够参与到 openEuler 社区中一起学习。
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### **2. 财务共享单据难度系数测评系统** `2020.03 -2020.04`
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+_校企合作外包项目_<br>
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+该系统是一个基于 SpringBoot 开发的一个财务单据评测系统，主要功能为对员工导入的公司单据（Excel）进行解析识别并且导入到数据库，实现后端界面对数据进行统一管理；并且实现一个单据难度测评系统，能够根据员工自定义的规则模型对导入的单据数据进行难度系数的测算。
 
-### **AsiaInfo** `2015.6 - 2015.8`
+在该项目中，主要涉及到 Excel 文件的解析以及大数据量的导入优化和查询优化。
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+经过该项目的开发，我更加熟悉了 SpringBoot 的开发与运用，以及学到了很多 MySQL 的插入、查询优化，并且还接触到了 Redis 的运用。
 
-## Mentoring
+### **3. 环境监测可视化系统** `2019.04 -2019.09`
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+_实习项目_<br>
 
-## Honors & Awards
+该项目是一个采用前后端分离架构的空气环境监测系统，后端使用了 Spring Boot 2.1，前端采用 了 Vue 框架。该系统主要功能为管理公司研发的设备、处理设备相关数据，以供研究人员查看与管理。 具有 Web 端以及小程序端。后台是基于 spring boot 的技术框架，安全框架 Apache Shiro，持久层框架 MyBatis,数据库连接 池 Druid，日志管理采用 SLF4J/Log4j，前端使用 Vue。
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+在项目中，主要负责了后端接口的设计编写，前端交互设计，后期功能维护与修改。
 
----
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+这也是个人参与的第一个基于前后端分离的项目，在项目完成过程中学到了很多新知识，以及对项目的整个开发流 程更加了解。 更深入的学习了 Vue 框架，了解了在前后端分离项目中的使用。 联合中国科学院环境环境研究所所参加宁波 2019 世界数字经济大会。
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021-->
