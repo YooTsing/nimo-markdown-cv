@@ -32,9 +32,25 @@ Any change you want to make to your CV from then on would have to be done on the
 ## Build it locally and print a PDF
 
 1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
+
 2. Clone your fork on your computer
+
 3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
+
+   > 出现错误：
+   >
+   > ```shell
+   > ...
+   > verify_gemfile_dependencies_are_found!': Could not find gem 'jekyll-assets (~> 2.4.0)' in any of the gem sources listed in your Gemfile. (Bundler::GemNotFound)
+   > ```
+   >
+   > 解决办法：
+   >
+   > 1. bundle install
+   > 2. bundle exec jekyll serve
+
 4. You can edit the `index.md` file and see changes live in your browser.
+
 5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
 
 ## Build it locally by docker
