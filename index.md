@@ -10,7 +10,7 @@ homepage:
 phone: 15750769828
 ---
 
-# 游正材
+# I'm 游正材
 
 <!--
 include contact information from the front matter
@@ -26,16 +26,15 @@ Supported arguments:
 ## 👨‍💻&nbsp; 专业技能 Skill points
 
 1. 理解面向对象编程，熟练掌握 Java 编程语言及其相关开发框架的应用。
-2. 熟悉 python 语言及爬虫设计，掌握 Scrapy 框架的应用。 
-3. 熟悉 Python Web 开发，能够 Flask 的进行开发。
-4. 熟悉 Linux 操作系统，能够在其上进行开发部署项目，了解并使用 openEuler。
-5. 熟练掌握 SSH、SSM 框架并有一定理解，以及 Tomcat、jetty 等 WEB 容器的应用。 
-6. 独立搭建过项目的系统框架，熟练掌握 SpringBoot 开发框架及其应用。 
-7. 熟悉关系型数据库MySQL、PostgreSQL，具备一定的数据库设计和优化经验。 
-8. 了解前端主流框架 Vue2.0，熟练掌握 JavaScript 及其相关框架。 
-9. 熟悉使用 Nginx 的应用。 
-10. 熟悉 Git 版本控制工具及协同开发。
-11. 熟悉树莓派开发及运用。
+2. 熟悉 Linux 操作系统，能够在其上进行开发部署项目。
+3. 熟悉 SSH、SSM 框架的应用，以及 Tomcat、jetty 等 WEB 容器的应用。 
+4. 独立搭建过项目的系统框架，熟练掌握 SpringBoot 开发框架及其应用。 
+5. 熟悉关系型数据库MySQL、PostgreSQL，具备一定的数据库设计和优化经验。 
+6. 了解前端主流框架 Vue，熟练掌握 JavaScript 及其相关框架。 
+7. 熟悉使用 Nginx 的应用。 
+8. 熟悉 Git 版本控制工具及协同开发。
+9. 熟悉树莓派开发及运用。
+10. 熟悉 python 语言及简单爬虫设计， Python Web 开发，能够 Flask 的进行开发。
 
 
 
@@ -77,7 +76,17 @@ Supported arguments:
 
 ## 🚀 &nbsp; 项目经验 Experience
 
-### **1. HopeHome-室内温度智能化监测系统** `2020.12 -`
+### **1. Observer - Linux下可扩展的应用可视化配置软件** `2021.07 -`
+
+_[开源地址 ：https://gitee.com/openeuler-competition/summer2021-96](https://gitee.com/openeuler-competition/summer2021-96)_<br>
+
+Observer 是一个适用于 openEuler 的可扩展的应用可视化配置软件，该项目使用 Golang 来进行开发。使用了 Gin Web Framework 来进行开发。通过扫描并读取所需软件的配置文件，抽取相关的配置项目，并显示在 Web 前端页面上。同时除了可视化配置之外，也提供一个“高级配置”，用于直接配置对应的配置文件。
+
+该项目为参加 Summer2021- 开源软件供应链点亮计划  的项目成果，目前仍在开发中，由我个人进行开发并贡献。
+
+该项目是我接触到 Golang 之后的第一个正式的开源项目，在该项目中我加深了我对 Golang 的认识，以及对 Web 开发的认识。并且在开发过程中，得益与之前 Java 的开发经验，让我感受到了技术的一些共通性。
+
+### **2. HopeHome-室内温度智能化监测系统** `2020.12 -`
 
 _[开源地址 ：https://gitee.com/openeuler2020/team-1647788699](https://gitee.com/openeuler2020/team-1647788699)_<br>
 
@@ -85,9 +94,9 @@ HopeHome 是一个基于 “云管边端” 架构的智能温度监测系统，
 
 该项目为参加 2020 openEuler 全国高校开发者大赛第 34 题的成果，项目在大赛中获得了二等奖。我在项目中担任队长，负责了整个系统的架构设计以及云节点、边节点的开发工作，以及团队协作管理。该系统目前已开源，并在长期维护中。
 
-在该项目的开发过程中，不仅学习和巩固了很多关于 Python ，SpringBoot 以及操作系统的知识，更是深入的了解了 openEuler 社区以及中国开源的力量，并且非常希望能够参与到 openEuler 社区中一起学习。
+在该项目的开发过程中，不仅学习和巩固了很多关于 Python ，SpringBoot 以及操作系统的知识，更是深入的了解了很多关于 Linux , Docker 的知识。
 
-### **2. 财务共享单据难度系数测评系统** `2020.03 -2020.04`
+### **3. 财务共享单据难度系数测评系统** `2020.03 -2020.04`
 
 _校企合作外包项目_<br>
 
@@ -97,7 +106,7 @@ _校企合作外包项目_<br>
 
 经过该项目的开发，我更加熟悉了 SpringBoot 的开发与运用，以及学到了很多 MySQL 的插入、查询优化，并且还接触到了 Redis 的运用。
 
-### **3. 环境监测可视化系统** `2019.04 -2019.09`
+### **4. 环境监测可视化系统** `2019.04 -2019.09`
 
 _实习项目_<br>
 
@@ -106,6 +115,16 @@ _实习项目_<br>
 在项目中，主要负责了后端接口的设计编写，前端交互设计，后期功能维护与修改。
 
 这也是个人参与的第一个基于前后端分离的项目，在项目完成过程中学到了很多新知识，以及对项目的整个开发流 程更加了解。 更深入的学习了 Vue 框架，了解了在前后端分离项目中的使用。 联合中国科学院环境环境研究所所参加宁波 2019 世界数字经济大会。
+
+##  🪡&nbsp; 链接 Links
+
+个人博客：[https://skyzc.top](https://skyzc.top)
+
+Github : [https://github.com/SkyzcYou](https://github.com/SkyzcYou)
+
+Gitee : [https://gitee.com/SkyzcYou](https://gitee.com/SkyzcYou)
+
+
 
 <!-- ### Footer
 
