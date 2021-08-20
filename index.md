@@ -86,6 +86,8 @@ Observer 是一个适用于 openEuler 的可扩展的应用可视化配置软件
 
 该项目是我接触到 Golang 之后的第一个正式的开源项目，在该项目中我加深了我对 Golang 的认识，以及对 Web 开发的认识。并且在开发过程中，得益与之前 Java 的开发经验，让我感受到了技术的一些共通性。
 
+<div style="page-break-after:always"></div>
+
 ### **2. HopeHome-室内温度智能化监测系统** `2020.12 -`
 
 _[开源地址 ：https://gitee.com/openeuler2020/team-1647788699](https://gitee.com/openeuler2020/team-1647788699)_<br>
@@ -116,7 +118,7 @@ _实习项目_<br>
 
 这也是个人参与的第一个基于前后端分离的项目，在项目完成过程中学到了很多新知识，以及对项目的整个开发流 程更加了解。 更深入的学习了 Vue 框架，了解了在前后端分离项目中的使用。 联合中国科学院环境环境研究所所参加宁波 2019 世界数字经济大会。
 
-##  🛰  &nbsp; 链接 Links
+##  🪅  &nbsp; 链接 Links
 
 个人博客：[https://skyzc.top](https://skyzc.top)
 
