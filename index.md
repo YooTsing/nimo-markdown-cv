@@ -116,7 +116,7 @@ _实习项目_<br>
 
 这也是个人参与的第一个基于前后端分离的项目，在项目完成过程中学到了很多新知识，以及对项目的整个开发流 程更加了解。 更深入的学习了 Vue 框架，了解了在前后端分离项目中的使用。 联合中国科学院环境环境研究所所参加宁波 2019 世界数字经济大会。
 
-##  🪡&nbsp; 链接 Links
+##  🛰  &nbsp; 链接 Links
 
 个人博客：[https://skyzc.top](https://skyzc.top)
 
@@ -128,4 +128,4 @@ Gitee : [https://gitee.com/SkyzcYou](https://gitee.com/SkyzcYou)
 
 <!-- ### Footer
 
-Last updated: May 2021-->
+Last updated: August 2021-->
