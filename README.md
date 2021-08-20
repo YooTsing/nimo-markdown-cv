@@ -46,6 +46,8 @@ Any change you want to make to your CV from then on would have to be done on the
    >
    > 解决办法：
    >
+   > ([参考](https://github.com/leopardpan/leopardpan.github.io/issues/28))
+   >
    > 1. bundle install
    > 2. bundle exec jekyll serve
 
